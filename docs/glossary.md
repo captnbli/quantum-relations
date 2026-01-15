@@ -2,7 +2,8 @@
 
 This glossary is intentionally **relational**.
 
-Every entry links to at least one other entry. The glossary forms a **single connected graph**: no term stands alone, and no concept is primitive in isolation.
+Every entry links to at least one other entry. The glossary forms a **single connected graph**:
+no term stands alone, and no concept is primitive in isolation.
 
 ---
 
