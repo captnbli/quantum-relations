@@ -1,5 +1,7 @@
 # Quantum Relations
 
+🌐 **Live site:** https://captnbli.github.io/quantum-relations/
+
 This repository hosts **Quantum Relations: A Relational Treatise with a Cross-Linked Glossary**.
 
 It is a documentation-first project exploring coherence, entanglement, interaction, forces,
