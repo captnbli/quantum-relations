@@ -448,3 +448,18 @@ This stance differs from classical substance-based ontology, in which objects po
 Relational ontology therefore provides a unifying perspective for understanding quantum theory, emergence, and the classical world. It makes explicit the ontological commitments already implicit in the formalism without adding new physical postulates.
 
 **See also:** [Entanglement](#entanglement), [Subsystem](#subsystem), [Emergence](#emergence), [Measurement](#measurement)
+
+---
+
+## Quantum Chromodynamics (QCD)
+
+Quantum chromodynamics (QCD) is the quantum field theory that describes the strong interaction — the interaction responsible for binding quarks into protons, neutrons, and other hadrons.
+
+In QCD, quarks interact through the exchange of gluons, which are excitations of the gluon field. Unlike many other quantum fields, the gluon field interacts with itself as well as with quarks. This leads to a distinctive feature of the strong interaction: quarks are permanently confined into composite structures and are never observed in isolation.
+
+A key consequence of confinement is that separating quarks increases the energy stored in the gluon field configuration between them. In stable bound states such as protons and neutrons, this energy dominates the total mass of the system. The intrinsic masses of the quarks themselves contribute only a small fraction.
+
+From the perspective of this project, QCD illustrates how mass and stability can emerge from energy stored in field configurations rather than from intrinsic particle properties. The strong interaction does not act as a simple force between objects; instead, it defines an energy landscape in which certain composite excitations are stable and persistent.
+
+This entry provides a conceptual orientation rather than a detailed account of QCD’s formal structure. A full treatment of its dynamics lies beyond the scope of this project and is an invitation for further exploration.
+
