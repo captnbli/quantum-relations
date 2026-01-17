@@ -98,6 +98,26 @@ Quantum theory does not need observers to function. It needs interactions, envir
 
 ---
 
+## Interpretations: What Changes, and What Doesn’t
+
+At this point it is natural to ask: what, exactly, is happening when a quantum measurement has a definite outcome? This question is not answered uniquely by the mathematical formalism of quantum theory itself. Instead, it gives rise to what are known as interpretations of quantum mechanics.
+
+An interpretation does not change the equations or the experimental predictions of the theory. All standard interpretations agree on what will be observed in any experiment. What they differ on is how to understand the relationship between the formal description and physical reality.
+
+Historically, the most influential interpretation is the Copenhagen interpretation. In this view, the quantum state is treated as a tool for calculating probabilities rather than as a direct description of physical reality. Measurement plays a special role: when a measurement occurs, the wavefunction is said to collapse to reflect the observed outcome. Copenhagen does not specify a physical mechanism for collapse; instead, it treats collapse as a rule for updating the description once a result is obtained.
+
+Modern developments clarify that much of what was once attributed to collapse can be explained by decoherence. Decoherence shows how interactions with the environment suppress interference and produce stable classical records without requiring observers or special measurement postulates. However, decoherence alone does not select a single outcome, which is why collapse remains part of the Copenhagen story as an effective update rule.
+
+Another influential approach is the many-worlds interpretation. In this view, the quantum state is taken as a complete description of reality and always evolves according to the Hamiltonian, without collapse. When a measurement occurs, the system and observer become entangled, leading to multiple non-interfering branches of the global quantum state. Each branch contains a definite outcome, and observers experience only one branch. From this perspective, collapse is not a physical process but an emergent description of branching.
+
+Other interpretations exist, including objective collapse models, relational interpretations, and information-theoretic approaches. Each attempts to resolve the tension between unitary evolution and definite outcomes in a different way. What they share is the recognition that the formalism alone does not dictate how it should be interpreted.
+
+For the purposes of this discussion, no single interpretation is assumed. The account given here relies only on the shared structure of quantum theory: states in Hilbert space, Hamiltonian evolution, interaction, entanglement, decoherence, and the emergence of classical records. These elements are common to all interpretations and sufficient to explain observed phenomena.
+
+Interpretations matter conceptually, but they do not alter the physics. They are different ways of telling a story about the same underlying structure, highlighting different aspects of how quantum descriptions relate to experience. Recognising this helps separate questions of meaning from questions of prediction, and keeps the focus on what the theory actually does.
+
+---
+
 ## How Anything Lasts Long Enough for Us to Exist
 
 Up to this point, we have described the world in terms of fields, states, interactions, and emergence. But this leaves a natural question unanswered: if everything is ultimately an excitation of quantum fields, why does anything persist at all? Why do these excitations not simply disperse, decay, or dissolve immediately?
