@@ -56,6 +56,21 @@ The preservation of well-defined phase relationships within a quantum system. Co
 
 ---
 
+## Hilbert Space
+A Hilbert space is the abstract mathematical space in which quantum states are represented. Each point (more precisely, each ray) corresponds to a possible physical state of a system, and the geometry of the space encodes physical structure.
+
+Hilbert space is **not physical space**. Its dimensions do not correspond to spatial directions but to independent degrees of freedom required to describe a system. Even a single particle can require an infinite-dimensional Hilbert space.
+
+Quantum superposition corresponds to vector addition in Hilbert space, while probabilities arise from inner products between state vectors. Entanglement reflects the fact that the Hilbert space of a composite system is a tensor product of subsystem spaces, allowing states that cannot be factorised into independent parts.
+
+The structure of Hilbert space constrains what can be observed: measurement outcomes correspond to projections onto subspaces, and incompatible observables arise from non-commuting operators acting on the space.
+
+Hilbert space therefore provides the formal arena for quantum theory, but it should not be reified as a physical arena. It encodes relational structure and informational constraints, not hidden spatial dimensions.
+
+**See also:** [Superposition](#superposition), [Entanglement](#entanglement), [Subsystem](#subsystem), [Measurement](#measurement)
+
+---
+
 ## Decoherence
 The dispersal of phase information from a system into many uncontrolled environmental degrees of freedom. Decoherence explains the emergence of classical behaviour without invoking collapse.
 
