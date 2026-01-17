@@ -11,6 +11,22 @@ But modern physics has taught us something unexpected: this picture is not funda
 
 ---
 
+## Scope and Assumptions
+
+This project describes the structure of quantum theory as it is currently used to explain physical phenomena. In doing so, it makes a small number of explicit assumptions about the domain in which that description applies.
+
+First, spacetime is treated as a fixed background. Quantum states and fields are described as evolving on spacetime, rather than spacetime itself being dynamical. This is the standard framework of quantum mechanics and quantum field theory as they are successfully applied in laboratory, atomic, and particle physics.
+
+Second, time is treated as an external parameter that orders change. Quantum states evolve with respect to time, but time itself is not treated as a quantum observable or a field subject to quantum fluctuations.
+
+Third, gravity is not included as a quantum interaction. While there are strong theoretical reasons to expect gravity to have a quantum description, no experimentally confirmed theory of quantum gravity currently exists. Questions involving dynamical spacetime, gravitational collapse, or quantum geometry therefore lie outside the scope of this account.
+
+Within these assumptions, quantum theory provides a remarkably complete and precise description of fields, interactions, entanglement, decoherence, and the emergence of classical behaviour. The explanations that follow are intended to be internally consistent within this domain, without claiming completeness beyond it.
+
+A companion project explores the structure of spacetime itself as described by general relativity. The tension between these frameworks is real and unresolved, and understanding it requires treating each on its own terms.
+
+---
+
 ## From Objects to Fields
 
 At the deepest level we currently know how to describe, the universe is not made of self-contained objects. It is made of **[quantum fields](glossary.md#quantum-field)**.
