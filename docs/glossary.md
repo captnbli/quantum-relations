@@ -8,9 +8,25 @@ no term stands alone, and no concept is primitive in isolation.
 ---
 
 ## Quantum Field
-A fundamental entity defined everywhere in spacetime. Fields are the basic ingredients of modern physics; particles, forces, and interactions are all described in terms of fields.
+A quantum field is a fundamental entity in modern physics: a mathematical structure defined over spacetime whose excitations correspond to what are observed as particles. In quantum field theory, fields—not particles—are the primary carriers of physical degrees of freedom.
 
-**See also:** [Particle](#particle), [Interaction](#interaction), [Emergence](#emergence)
+A quantum field assigns operator-valued quantities to every point in spacetime. These operators act on states in **[Hilbert space](#hilbert-space)** and encode the possible outcomes of measurements. The field itself is not a material substance filling space, but a formal object that determines how quantum states evolve and interact.
+
+Particles arise as localised, quantised excitations of a field. What is detected experimentally as a “particle” (for example, an electron detected in a detector) corresponds to a discrete interaction event involving a field excitation. The particle concept is therefore emergent and context-dependent, while the field description is fundamental.
+
+Each fundamental type of particle corresponds to its own quantum field. For example, electrons, quarks, photons, and gluons are associated with distinct fields, each with its own properties and interaction rules. Interactions between particles are described as couplings between the corresponding quantum fields.
+
+Quantum fields do not exist independently of one another. Their dynamics and interactions are specified jointly through a Lagrangian or Hamiltonian, which encodes both the behaviour of each field in isolation and the allowed couplings between fields. These **[interactions](#interaction)** determine which excitations can occur, how energy and momentum are exchanged, and which correlations can form.
+
+The field description naturally incorporates **[superposition](#superposition)** and **[entanglement](#entanglement)**. Because field excitations are states in Hilbert space, they can exist in superpositions and become entangled across spacetime regions and subsystems. This is why quantum field theory unifies quantum mechanics with special relativity without reverting to classical particle pictures.
+
+Quantum fields should not be confused with classical fields such as electric or magnetic fields, although they reduce to those fields in appropriate limits. Classical fields emerge when quantum fluctuations are negligible and field operators can be replaced by expectation values, a process closely tied to **[decoherence](#decoherence)** and the **[classical limit](#classical-limit)**.
+
+Importantly, quantum fields are not optional theoretical constructs layered on top of particles. Attempts to describe relativistic quantum phenomena purely in terms of particles lead to inconsistencies. Processes such as particle creation and annihilation, vacuum fluctuations, and the stability of matter are naturally described only in the field framework.
+
+Quantum fields thus provide the deepest currently known description of matter and interaction. They underpin the structure of atoms, chemistry, solid matter, and ultimately biological systems, while remaining fully compatible with the relational, non-object-based ontology revealed by quantum theory.
+
+**See also:** [Hilbert Space](#hilbert-space), [Interaction](#interaction), [Superposition](#superposition), [Entanglement](#entanglement), [Decoherence](#decoherence), [Classical Limit](#classical-limit)
 
 ---
 
@@ -24,7 +40,8 @@ A localised, quantised excitation of a quantum field, observed as a discrete eve
 ## Interaction
 An interaction is a physical coupling between degrees of freedom that constrains how quantum states evolve together over time. In quantum theory, interactions are not forces acting on pre-existing objects, but structural terms in the dynamical laws that link otherwise independent components of a system.
 
-Formally, interactions are encoded as coupling terms in the Hamiltonian or Lagrangian. These terms prevent the total system from being decomposed into independently evolving parts, enabling the formation of correlations and **[entanglement](#entanglement)**. In the absence of interaction, subsystems evolve independently.
+Formally, interactions are encoded as coupling terms in the **[Hamiltonian](#hamiltonian)** or **[Lagrangian](#lagrangian)**. 
+These terms prevent the total system from being decomposed into independently evolving parts, enabling the formation of correlations and **[entanglement](#entanglement)**. In the absence of interaction, subsystems evolve independently.
 
 Interactions act on **[quantum fields](#quantum-field)**, not on classical particles. What appear as particle–particle interactions in experiments are manifestations of underlying field couplings. The particle picture emerges only after localisation and decoherence make such descriptions approximately valid.
 
@@ -41,16 +58,69 @@ Interactions are thus foundational to quantum theory: they make subsystems meani
 ---
 
 ## Coupling
-A parameter that sets the strength of an interaction between fields. Different couplings determine how readily fields exchange energy, momentum, or other conserved quantities.
+A coupling is a parameter that specifies the strength and form of an interaction between quantum fields or degrees of freedom. Couplings determine how strongly different parts of a system influence one another and which correlations can form over time.
 
-**See also:** [Interaction](#interaction), [Lagrangian](#lagrangian)
+Formally, couplings appear as coefficients multiplying interaction terms in the **[Hamiltonian](#hamiltonian)** or **[Lagrangian](#lagrangian)**.
+ They set the scale at which **[interactions](#interaction)** occur and therefore control rates of processes such as scattering, decay, and energy exchange. Changing a coupling changes the dynamics of the theory, even if the fields involved remain the same.
+
+Couplings are not forces. A force is an emergent, classical-level description that arises from interactions in the **[classical limit](#classical-limit)**. Couplings instead belong to the fundamental dynamical description and are defined prior to any particle or force-based interpretation.
+
+In quantum field theory, different couplings govern different interactions. For example, electric charge determines the strength of electromagnetic coupling, while other couplings control weak and strong interactions. These couplings fix which field excitations can interact and how likely particular outcomes are.
+
+The magnitude of a coupling has qualitative consequences. Weak couplings allow subsystems to behave approximately independently for long periods, supporting stable **[subsystems](#subsystem)** and classical behaviour. Strong couplings rapidly generate **[entanglement](#entanglement)** and drive fast decoherence, making isolation and coherent control difficult.
+
+Importantly, couplings are often scale-dependent. Due to quantum effects, the effective strength of a coupling can vary with energy or distance, a phenomenon known as running. This means that interactions that appear weak at everyday scales may behave very differently at high energies or small distances.
+
+Couplings do not select outcomes or introduce randomness by themselves. They constrain which transitions are allowed and with what probabilities, but the probabilistic structure arises from the quantum state and its evolution in **[Hilbert space](#hilbert-space)**.
+
+Couplings thus play a central role in shaping the relational structure of physical theories. They determine how fields connect, how complexity builds up, and which effective descriptions—particles, forces, or classical objects—become valid at different scales.
+
+**See also:** [Interaction](#interaction), [Quantum Field](#quantum-field), [Entanglement](#entanglement), [Decoherence](#decoherence), [Classical Limit](#classical-limit)
+
 
 ---
 
 ## Lagrangian
-A mathematical object encoding the dynamics of fields. It specifies both how fields evolve in isolation and how they interact through coupling terms.
+A Lagrangian is a compact mathematical object that encodes the dynamical structure of a physical theory. It specifies which degrees of freedom exist, how they evolve in isolation, and how they interact with one another.
 
-**See also:** [Interaction](#interaction), [Coupling](#coupling), [Quantum Field](#quantum-field)
+In quantum field theory, the Lagrangian is written in terms of **[quantum fields](#quantum-field)** and their spacetime variations. It does not describe trajectories or forces directly. Instead, it defines the rules from which equations of motion, conservation laws, and interaction processes are derived.
+
+Formally, the Lagrangian determines the dynamics of a system through a variational principle: the physical evolution is the one that extremises a quantity called the action. This principle replaces the classical notion of “cause and effect via forces” with a global constraint on allowed histories.
+
+Interaction terms in the Lagrangian specify **[couplings](#coupling)** between fields. These terms determine which fields can influence one another, how strongly, and under what conditions. In this sense, the Lagrangian is the source of all **[interactions](#interaction)** in the theory.
+
+The Lagrangian also encodes symmetries. Continuous symmetries of the Lagrangian correspond to conserved quantities such as energy, momentum, and charge. These conservation laws are not added by hand; they follow directly from the structure of the Lagrangian itself.
+
+The Lagrangian is not an observable object, nor does it represent physical substance. It is a formal summary of constraints and possibilities. Different Lagrangians define different physical worlds by permitting different patterns of correlation, stability, and emergence.
+
+At the quantum level, the Lagrangian underlies the construction of the Hamiltonian and governs the evolution of states in **[Hilbert space](#hilbert-space)**. At the classical level, it gives rise to effective equations involving forces and potentials, once decoherence and averaging suppress quantum interference.
+
+The success of modern physics rests heavily on the Lagrangian framework. The Standard Model of particle physics is defined almost entirely by its Lagrangian, which specifies the fields, couplings, and symmetries from which the behaviour of matter follows.
+
+The Lagrangian thus serves as a generative blueprint: not a description of what happens moment by moment, but a compact specification of what is allowed to happen at all.
+
+**See also:** [Quantum Field](#quantum-field), [Interaction](#interaction), [Coupling](#coupling), [Hilbert Space](#hilbert-space), [Classical Limit](#classical-limit)
+
+---
+
+## Hamiltonian
+The Hamiltonian is the operator that generates time evolution in quantum theory. It specifies how a quantum state changes with time and therefore governs the dynamical behaviour of systems.
+
+Formally, the Hamiltonian acts on states in **[Hilbert space](#hilbert-space)**. The evolution of a quantum state is determined by the Hamiltonian through a deterministic equation of motion, which encodes how amplitudes and phases evolve over time.
+
+The Hamiltonian is derived from the **[Lagrangian](#lagrangian)**, but the two play different conceptual roles. The Lagrangian provides a global specification of allowed dynamics and symmetries, while the Hamiltonian provides a local-in-time rule for how states evolve. In this sense, the Lagrangian defines what is permitted, and the Hamiltonian enacts it.
+
+Interaction terms in the Hamiltonian encode **[couplings](#coupling)** between degrees of freedom. These terms are responsible for generating **[entanglement](#entanglement)**, redistributing coherence, and driving decoherence when systems interact with their environments. In the absence of interaction terms, subsystems evolve independently.
+
+The Hamiltonian does not represent energy as a substance or force. While its expectation value corresponds to energy, its deeper role is structural: it defines the generator of temporal change and constrains which correlations can form over time.
+
+In composite systems, the Hamiltonian typically includes separate contributions for subsystems and their interactions. This structure determines which subsystem decompositions are dynamically stable and which observables are robust under environmental coupling.
+
+At the classical level, the Hamiltonian reduces to familiar energy-based descriptions of motion. At the quantum level, it governs the full relational evolution of states, even when no classical trajectories exist.
+
+The Hamiltonian thus provides the bridge between abstract dynamical constraints and concrete temporal behaviour. It is the engine that drives quantum evolution, entanglement, decoherence, and ultimately the emergence of classical structure.
+
+**See also:** [Lagrangian](#lagrangian), [Interaction](#interaction), [Coupling](#coupling), [Entanglement](#entanglement), [Decoherence](#decoherence), [Hilbert Space](#hilbert-space)
 
 ---
 
@@ -105,7 +175,8 @@ Hilbert space thus provides the formal setting for quantum theory while remainin
 ## Decoherence
 Decoherence is the physical process by which phase relationships within a quantum system become dispersed into correlations with many uncontrollable degrees of freedom in the environment. As a result, interference between certain alternatives becomes practically unobservable, even though the overall quantum state continues to evolve according to standard quantum dynamics.
 
-Formally, decoherence is described within **[Hilbert space](#hilbert-space)**. When a subsystem becomes **[entangled](#entanglement)** with environmental degrees of freedom that are not tracked, the combined state spreads coherence across the larger system. Describing only the subsystem then requires ignoring (tracing over) the environment, yielding a reduced state in which interference terms are strongly suppressed.
+Formally, decoherence is described within **[Hilbert space](#hilbert-space)** under time evolution generated by the **[Hamiltonian](#hamiltonian)**. 
+When a subsystem becomes **[entangled](#entanglement)** with environmental degrees of freedom that are not tracked, the combined state spreads coherence across the larger system. Describing only the subsystem then requires ignoring (tracing over) the environment, yielding a reduced state in which interference terms are strongly suppressed.
 
 Decoherence does **not** eliminate superposition or entanglement at the global level. Instead, it redistributes coherence from a small, controllable subsystem into correlations with a much larger environment. From the perspective of the subsystem alone, the state appears mixed rather than coherent.
 
@@ -177,7 +248,7 @@ Subsystems thus function as pragmatic units of description rather than ontologic
 ## Measurement
 Measurement is a physical process in which a quantum system becomes entangled with a measuring apparatus and its environment, followed by decoherence that stabilises correlations into classical records. It is not a primitive or special operation, but a composite process arising from ordinary quantum dynamics.
 
-Formally, measurement is described within **[Hilbert space](#hilbert-space)** as the evolution of a joint system–apparatus state into a superposition of correlated outcome branches. These branches correspond to distinct subspaces associated with different possible results, determined by the interaction structure between system and apparatus.
+Formally, measurement is described within **[Hilbert space](#hilbert-space)** as evolution generated by the **[Hamiltonian](#hamiltonian)** of the joint system–apparatus state into a superposition of correlated outcome branches. These branches correspond to distinct subspaces associated with different possible results, determined by the interaction structure between system and apparatus.
 
 Measurement does not require consciousness, intention, or an observer in the everyday sense. It occurs whenever information about a system becomes redundantly encoded in environmental degrees of freedom such that interference between alternatives is effectively suppressed.
 
