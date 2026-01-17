@@ -15,7 +15,17 @@ But modern physics has taught us something unexpected: this picture is not funda
 
 At the deepest level we currently know how to describe, the universe is not made of self-contained objects. It is made of **[quantum fields](glossary.md#quantum-field)**.
 
-A field is something that exists everywhere in space and time, assigning values to every point. Temperature in a room is a familiar example of a field; so is the electromagnetic field that allows light to exist.
+A field is something that exists everywhere in space and time, assigning values to every point. Fields are often described as abstract because we do not directly perceive them. But this unfamiliarity is largely a matter of intuition, not reality.
+
+A familiar classical example helps. Consider iron filings sprinkled beneath a magnet. Before the filings are added, the magnetic field already exists. It is invisible, but it has a definite structure. When the filings are introduced, they do not create the field or become part of it. Instead, they respond locally to the field, aligning themselves in ways that reveal its underlying geometry.
+
+The striking patterns that appear are not objects hidden inside the magnet. They are emergent structures produced by many small interactions, constrained by the field’s configuration. Remove the filings, and the field remains. Change the field, and the pattern changes accordingly.
+
+Quantum fields are similar in this respect. They are not made of particles. Particles are stable, localised responses to fields—patterns that arise when fields interact and are constrained by conservation laws, energy barriers, and symmetry. The field is primary; the particle is secondary.
+
+What we observe in experiments are not fields directly, but the effects of fields acting on other systems. Detectors, atoms, and measuring devices play a role analogous to the iron filings: they respond to the field and make certain aspects of its structure manifest. The patterns we call “particles” are how those responses appear when interactions become localised and records are formed.
+
+Seen this way, fields are not abstract inventions layered on top of reality. They are the deeper structure from which the familiar world of objects and events emerges, just as the magnetic field is the structure underlying the visible pattern of filings.
 
 In modern physics, every type of “particle” is associated with an underlying quantum field. The electron is not a tiny bead flying through space. It is a localised excitation — a ripple — in the electron field.
 
