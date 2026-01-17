@@ -164,6 +164,14 @@ The stability of these bound states is not due to rigid structure but to the sha
 
 Most of the mass of ordinary matter does not come from the intrinsic masses of quarks, which are small, but from the energy stored in the strong interaction itself. The inertia of everyday objects is therefore largely an emergent consequence of confined field dynamics.
 
+More precisely, this energy resides in the configuration of the **gluon field** that binds quarks together. The gluon field is the quantum field associated with the strong interaction. Its configurations carry energy, and in bound states such as protons and neutrons, that energy dominates the total mass through mass–energy equivalence.
+
+In this sense, the mass of ordinary matter is not primarily a property of individual particles, but an emergent consequence of energy stored in stable field configurations.
+
+More precisely, this energy resides in the configuration of the **gluon field** that binds quarks together. The gluon field is the quantum field associated with the strong interaction. Its configurations carry energy, and in bound states such as protons and neutrons, that energy dominates the total mass through mass–energy equivalence.
+
+In this sense, the mass of ordinary matter is not primarily a property of individual particles, but an emergent consequence of energy stored in stable field configurations.
+
 ---
 
 ## The Higgs Field and Mass
