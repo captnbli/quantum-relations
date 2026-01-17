@@ -152,6 +152,18 @@ From this perspective, we do not exist *despite* the quantum nature of reality. 
 
 The universe is not a chaos temporarily frozen into order. It is a system whose fundamental rules allow islands of persistence. We are one such island.
 
+### From Quark Fields to Protons and Neutrons
+
+At a deeper level, protons and neutrons themselves are not fundamental objects. They are stable bound states of excitations in quark fields, governed by the strong interaction.
+
+The strong interaction is described by quantum chromodynamics (QCD), a quantum field theory in which quarks interact by exchanging gluons. Unlike the electromagnetic interaction, the strength of the strong interaction increases as quarks are pulled apart. This makes isolated quarks energetically inaccessible.
+
+As a result, quarks are permanently confined into composite structures. Attempting to separate them does not free an individual quark; instead, the energy stored in the strong field produces new quark–antiquark pairs. What persists are bound states such as protons and neutrons, not their individual constituents.
+
+The stability of these bound states is not due to rigid structure but to the shape of the energy landscape defined by the strong interaction. There is no lower-energy configuration available that preserves the relevant constraints. In this sense, protons and neutrons are stable patterns of field activity rather than assembled objects.
+
+Most of the mass of ordinary matter does not come from the intrinsic masses of quarks, which are small, but from the energy stored in the strong interaction itself. The inertia of everyday objects is therefore largely an emergent consequence of confined field dynamics.
+
 ---
 
 ## From Fields to Atoms to Us
