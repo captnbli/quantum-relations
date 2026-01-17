@@ -82,6 +82,18 @@ Entanglement is not a signal or a force. It does not allow faster-than-light com
 
 ---
 
+## Quantum Dynamics: The Rule of Evolution
+
+All of the phenomena described so far — superposition, entanglement, and their persistence over time — arise from a single underlying rule of quantum theory.
+
+The evolution of a quantum state is governed by a deterministic equation of motion. This equation specifies how the state changes in time given the system’s interactions and energy structure. In non-relativistic settings, this rule is known as the Schrödinger equation. Closely related formulations apply in more general contexts.
+
+This equation governs the evolution of the quantum state itself. When systems interact, it does not evolve each part independently; it evolves the combined state. Entanglement is therefore not an added feature or special case. It is the natural result of applying the same dynamical rule to interacting systems.
+
+Nothing in this evolution selects a single outcome or introduces classical definiteness. The equation governs how possibilities evolve, not which one is realised. For readers interested in a more detailed explanation of this equation and how it works mathematically, an accessible introduction is provided in the linked lecture by Sean Carroll.
+
+---
+
 ## Decoherence and the Return of the Classical World
 
 If quantum superpositions and entanglement are so fundamental, why does the world look classical?
