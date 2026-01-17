@@ -164,6 +164,18 @@ From this perspective, we do not exist *despite* the quantum nature of reality. 
 
 The universe is not a chaos temporarily frozen into order. It is a system whose fundamental rules allow islands of persistence. We are one such island.
 
+### Why You Can’t Walk Through Walls
+
+It is often said that matter is “mostly empty space”, which can make it seem mysterious that solid objects do not pass through one another. This description is geometrically accurate but physically misleading.
+
+What matters is not how much space is empty, but which configurations of quantum fields are allowed and how much energy it takes to change them. When two macroscopic objects approach, their constituent field excitations — particularly those of the electron field — begin to interact. Rearranging these excitations so that the objects interpenetrate would require placing many fermionic excitations into higher-energy states and disrupting stable, bound configurations.
+
+The energy required to do this is enormous. What we experience as solidity or contact is not particles colliding like hard objects, but the resistance of quantum field configurations to being compressed into energetically unfavourable arrangements.
+
+This resistance arises from multiple sources: quantum exclusion, electromagnetic interaction, and the stability of bound structures. Together, these effects make macroscopic overlap effectively impossible, even though individual particles can, in principle, tunnel through barriers.
+
+Solidity is therefore not the absence of empty space, but the presence of strong constraints on how field configurations can change. Walls are rigid not because they are full, but because altering their underlying quantum structure requires more energy than ordinary motion can supply.
+
 ### From Quark Fields to Protons and Neutrons
 
 At a deeper level, protons and neutrons themselves are not fundamental objects. They are stable bound states of excitations in quark fields, governed by the strong interaction.
