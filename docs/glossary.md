@@ -148,6 +148,24 @@ Forces are thus powerful and indispensable within their domain of applicability,
 
 ---
 
+## Mass
+
+In everyday experience, mass is often thought of as the “amount of matter” an object contains. In modern physics, this intuition is not fundamental and can be misleading.
+
+Mass is best understood as a measure of a system’s resistance to acceleration (its inertia) and, equivalently, as a form of energy. Through mass–energy equivalence, any energy associated with a system contributes to its mass.
+
+In quantum field theory, mass is not a substance carried by particles. Instead, it emerges from how field excitations behave and how much energy is associated with their configurations. Different contributions to mass arise in different ways.
+
+For elementary excitations such as electrons, part of the mass arises from interaction with the **Higgs field**, which sets a scale for inertia. For composite systems such as protons and neutrons, the dominant contribution to mass does not come from the intrinsic masses of their constituents. Instead, it comes from the energy stored in the configuration of fields — in particular, the energy associated with the strong interaction binding quarks together.
+
+This means that most of the mass of ordinary matter is an emergent property of stable, bound field configurations rather than a sum of pre-existing particle masses. What we experience as “heaviness” is largely the inertia of energy locked into persistent patterns.
+
+Mass therefore reflects stability and constraint rather than substance. It tells us how difficult it is to change a system’s motion, not how much “stuff” it contains.
+
+In classical physics, mass appears as a fixed attribute of objects. In the quantum-field view, it is a relational and emergent quantity, arising from interactions, energy landscapes, and the structure of the underlying fields.
+
+---
+
 ## Coherence
 Coherence refers to the maintenance of well-defined phase relationships between components of a quantum state. It is a property of how amplitudes relate to one another over time, not a property of particles, objects, or measurements.
 
