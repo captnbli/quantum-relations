@@ -166,6 +166,22 @@ Most of the mass of ordinary matter does not come from the intrinsic masses of q
 
 ---
 
+## The Higgs Field and Mass
+
+One quantum field plays a distinctive role in shaping the behaviour of matter: the Higgs field.
+
+Unlike fields associated with forces, the Higgs field does not mediate interactions between particles. Instead, it provides a uniform background that affects how certain excitations respond to motion. In this sense, it sets part of the scale for inertia — the resistance of a system to acceleration.
+
+Excitations that interact strongly with the Higgs field behave as if they have greater mass. Those that do not remain effectively massless. This difference is not due to particles carrying more or less “stuff”, but to how they couple to the Higgs field as they evolve.
+
+The Higgs field is present everywhere, even in empty space. Its influence is subtle but pervasive, shaping the spectrum of stable excitations that can exist. Without it, electrons would behave very differently, atoms would not form as they do, and the familiar structure of matter would be impossible.
+
+It is important to note that the Higgs field does not account for most of the mass of ordinary matter. As discussed earlier, the majority of the mass of protons and neutrons arises from the energy stored in the strong interaction, not from the intrinsic masses of their constituent quarks.
+
+The Higgs field therefore plays a boundary role in this account. It helps set the conditions under which stable matter can exist, without being the dominant source of mass or structure. Like other fields, it illustrates how the properties of the world emerge from patterns of interaction rather than from intrinsic substance.
+
+---
+
 ## From Fields to Atoms to Us
 
 With these pieces in place, the emergence of the familiar world is no longer mysterious.
