@@ -362,27 +362,69 @@ Emergence therefore provides the conceptual bridge between fundamental quantum s
 ---
 
 ## False Vacuum
-A metastable configuration of a quantum field that is not the lowest possible energy state. A false vacuum may decay via quantum tunnelling, changing the local laws of physics.
+A false vacuum is a metastable state of a physical field that appears locally stable but is not the lowest-energy configuration available. Although such a state can persist for extremely long periods, it is not globally stable and may transition to a lower-energy state under the right conditions.
 
-**See also:** [Quantum Tunnelling](#quantum-tunnelling), [Quantum Field](#quantum-field)
+Formally, a false vacuum is defined within the framework of **[quantum field](#quantum-field)** theory. Fields are characterised by energy landscapes with multiple possible configurations. A false vacuum corresponds to a local minimum in this landscape, separated from the true minimum by an energy barrier.
+
+Transitions out of a false vacuum can occur through **[quantum tunnelling](#quantum-tunnelling)**, leading to a sudden change in the field configuration. Such a transition would propagate outward at the speed allowed by the underlying field dynamics, altering physical constants and interaction structures within the affected region.
+
+The concept of a false vacuum does not play a role in everyday quantum phenomena, **[measurement](#measurement)**, or the **[classical limit](#classical-limit)**. It does not contribute to explanations of decoherence, emergence, or outcome selection. Its relevance is cosmological rather than local or structural.
+
+False vacuum decay is a theoretical possibility within certain models of particle physics and cosmology. At present, there is no experimental evidence that the universe occupies a false vacuum, nor that such a transition is imminent or even physically realised.
+
+False vacuum therefore functions as a boundary concept. It illustrates how global stability is not guaranteed by local consistency and marks a limit of current theoretical understanding rather than an active component of quantum mechanics.
+
+**See also:** [Quantum Field](#quantum-field), [Quantum Tunnelling](#quantum-tunnelling), [Emergence](#emergence)
 
 ---
 
 ## Quantum Tunnelling
-A probabilistic transition through an energy barrier that is forbidden in classical physics. Tunnelling plays roles in particle physics, chemistry, and cosmology.
+Quantum tunnelling is a phenomenon in which a quantum system transitions between states that are classically forbidden due to an energy barrier. It arises from the wave-like structure of quantum states rather than from the system acquiring additional energy.
 
-**See also:** [False Vacuum](#false-vacuum), [Superposition](#superposition)
+Formally, quantum tunnelling is described within **[Hilbert space](#hilbert-space)** as part of ordinary **[Hamiltonian](#hamiltonian)** evolution. A quantum state associated with a potential barrier generally has non-zero amplitude on both sides of the barrier. As a result, the system may be found in a region that would be inaccessible according to classical dynamics.
+
+Tunnelling does not involve the system passing *over* the barrier or temporarily violating energy conservation. Instead, it reflects the fact that quantum states are spatially extended and that their evolution is governed by boundary conditions and interaction structure rather than classical trajectories.
+
+Quantum tunnelling depends on the shape and height of the barrier, the mass or effective inertia of the system, and the coupling between relevant degrees of freedom. For sufficiently large systems or strongly decohered states, tunnelling probabilities become negligibly small, which is why tunnelling is rarely observed at macroscopic scales.
+
+Tunnelling is distinct from **[wavefunction collapse](#wavefunction-collapse)**. It is a continuous, unitary process governed by the Hamiltonian, not an update associated with measurement or outcome selection. Decoherence may suppress interference effects related to tunnelling but does not eliminate tunnelling at the global level.
+
+In **[quantum field](#quantum-field)** theory, tunnelling generalises to transitions between different field configurations, including changes between local minima of a field’s energy landscape. This broader notion underlies phenomena such as false vacuum decay in cosmological models.
+
+Quantum tunnelling therefore illustrates a central feature of quantum theory: physical behaviour is governed by the structure of states and their allowed evolution, not by classical intuitions about paths, barriers, or forces.
+
+**See also:** [Hamiltonian](#hamiltonian), [Hilbert Space](#hilbert-space), [Wavefunction Collapse](#wavefunction-collapse), [Quantum Field](#quantum-field), [Classical Limit](#classical-limit)
 
 ---
 
 ## Wave–Particle Duality
-The context-dependent appearance of quantum excitations as either localised events or extended interference patterns. This duality reflects limitations of classical categories.
+Wave–particle duality is a historical term used to describe the fact that quantum systems exhibit behaviours traditionally associated with both waves and particles, depending on the experimental context. It does not imply that quantum entities are sometimes waves and sometimes particles.
 
-**See also:** [Particle](#particle), [Coherence](#coherence)
+In modern quantum theory, there is no fundamental wave–particle dichotomy. Systems are described by quantum states evolving in **[Hilbert space](#hilbert-space)** under dynamics generated by the **[Hamiltonian](#hamiltonian)**. The “wave-like” and “particle-like” descriptions arise as different effective ways of summarising aspects of this underlying structure.
+
+Wave-like behaviour refers to phenomena such as interference and diffraction, which depend on **[coherence](#coherence)** and the maintenance of phase relationships across a state. Particle-like behaviour refers to localised detection events and discrete outcomes, which are explained by **[measurement](#measurement)**, **[decoherence](#decoherence)**, and the formation of **[classical records](#classical-record)**.
+
+These behaviours are not mutually exclusive properties of an underlying object. A single quantum state can give rise to interference effects in one context and localised detection events in another, without changing its fundamental description. The apparent duality reflects the limits of classical categories rather than a dual nature of quantum entities.
+
+In **[quantum field](#quantum-field)** theory, the duality is further demoted. Fields are fundamental, and what are called “particles” are quantised excitations detected through interactions. The wave–particle language survives mainly as a heuristic inherited from early quantum theory.
+
+Wave–particle duality therefore marks a transitional concept. It captures the breakdown of classical intuition but is not a principle of the theory itself. Modern quantum mechanics replaces the duality with a single, unified framework in which states, interactions, and measurements account for all observed behaviour.
+
+**See also:** [Superposition](#superposition), [Coherence](#coherence), [Measurement](#measurement), [Decoherence](#decoherence), [Quantum Field](#quantum-field)
 
 ---
 
 ## Relational Ontology
-The view that relations are fundamental and that objects are derived, stable patterns within a network of interactions. Quantum theory naturally supports a relational ontology.
+Relational ontology is the view that physical reality is fundamentally constituted by relations rather than by self-contained objects with intrinsic properties. In this view, entities are defined by how they interact and relate, not by what they are in isolation.
 
-**See also:** [Entanglement](#entanglement), [Subsystem](#subsystem), [Emergence](#emergence)
+In quantum theory, relational ontology arises naturally. The formalism describes states in **[Hilbert space](#hilbert-space)**, correlations between **[subsystems](#subsystem)**, and constraints imposed by **[interactions](#interaction)**. Properties such as position, momentum, and even identity are not absolute attributes but context-dependent features that emerge through relations.
+
+**[Entanglement](#entanglement)** exemplifies this stance. An entangled system cannot be fully described by assigning independent states to its parts. The relational structure of the whole is primary, and the parts are defined only within that structure.
+
+Relational ontology does not deny the reality of objects, classical records, or observers. Instead, it treats them as **emergent** and **context-dependent**, arising through stable patterns of interaction, **[decoherence](#decoherence)**, and the formation of **[classical records](#classical-record)**.
+
+This stance differs from classical substance-based ontology, in which objects possess properties independently of observation or interaction. It also differs from purely epistemic views that treat relations as features of knowledge alone. In relational ontology, relations are physically real, even if the entities they relate are not fundamental in the classical sense.
+
+Relational ontology therefore provides a unifying perspective for understanding quantum theory, emergence, and the classical world. It makes explicit the ontological commitments already implicit in the formalism without adding new physical postulates.
+
+**See also:** [Entanglement](#entanglement), [Subsystem](#subsystem), [Emergence](#emergence), [Measurement](#measurement)
