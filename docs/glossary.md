@@ -361,13 +361,6 @@ Emergence therefore provides the conceptual bridge between fundamental quantum s
 
 ---
 
-## Gravity-Induced Collapse
-A speculative class of proposals in which gravitational effects cause an objective breakdown of quantum superposition. No experimental evidence currently supports such mechanisms.
-
-**See also:** [Superposition](#superposition), [Decoherence](#decoherence)
-
----
-
 ## False Vacuum
 A metastable configuration of a quantum field that is not the lowest possible energy state. A false vacuum may decay via quantum tunnelling, changing the local laws of physics.
 
