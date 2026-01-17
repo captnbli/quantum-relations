@@ -53,6 +53,8 @@ At the classical level, interactions give rise to effective **[forces](#force)**
 
 Interactions are thus foundational to quantum theory: they make subsystems meaningful, enable entanglement, drive decoherence, and ground measurement without invoking observers or collapse.
 
+When physicists speak of “equations of motion”, they are not referring to paths traced by objects through space. They are referring to rules that constrain how physical states may change. These equations specify which evolutions are possible, which are forbidden, and how different quantities must change together. In this sense, the equations of motion are not instructions applied to matter, but part of the structure that defines what matter can do.
+
 **See also:** [Quantum Field](#quantum-field), [Entanglement](#entanglement), [Decoherence](#decoherence), [Measurement](#measurement), [Force](#force), [Subsystem](#subsystem)
 
 ---
