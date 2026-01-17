@@ -184,7 +184,8 @@ It is important to note that the Higgs field does not account for most of the ma
 
 The Higgs field therefore plays a boundary role in this account. It helps set the conditions under which stable matter can exist, without being the dominant source of mass or structure. Like other fields, it illustrates how the properties of the world emerge from patterns of interaction rather than from intrinsic substance.
 
-While the Higgs field sets the mass scale for elementary excitations, the majority of the mass of ordinary matter arises from energy stored in QCD-bound field configurations. These contributions are complementary, not competing.
+While the Higgs field sets the mass scale for elementary excitations, the majority of the mass of ordinary matter arises from energy stored in **[QCD](glossary.md#quantum-chromodynamics-qcd)**-bound field configurations
+. These contributions are complementary, not competing.
 
 ---
 
