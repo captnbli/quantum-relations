@@ -24,17 +24,17 @@ A localised, quantised excitation of a quantum field, observed as a discrete eve
 ## Interaction
 An interaction is a physical coupling between degrees of freedom that constrains how quantum states evolve together over time. In quantum theory, interactions are not forces acting on pre-existing objects, but structural terms in the dynamical laws that link otherwise independent components of a system.
 
-Formally, interactions appear as coupling terms in the Hamiltonian or Lagrangian of a theory. These terms prevent the total system from being decomposed into independently evolving parts, thereby enabling entanglement and information exchange. In the absence of interaction, subsystems evolve independently.
+Formally, interactions are encoded as coupling terms in the Hamiltonian or Lagrangian. These terms prevent the total system from being decomposed into independently evolving parts, enabling the formation of correlations and **[entanglement](#entanglement)**. In the absence of interaction, subsystems evolve independently.
 
-Interactions act on quantum fields, not on classical particles. What appear as particle–particle interactions in experiments are manifestations of underlying field couplings. The particle picture is an emergent, context-dependent description that becomes useful only after decoherence and localisation.
+Interactions act on **[quantum fields](#quantum-field)**, not on classical particles. What appear as particle–particle interactions in experiments are manifestations of underlying field couplings. The particle picture emerges only after localisation and decoherence make such descriptions approximately valid.
 
-The specific form of an interaction determines which observables become correlated and which bases are stabilised by decoherence. Measurement, for example, is not defined by an abstract projection rule, but by the concrete interaction structure between a system, an apparatus, and the environment.
+The specific structure of an interaction determines which observables become correlated and which states are stabilised by decoherence. Measurement is therefore grounded in physical interaction structure, not in abstract projection rules or observer choices.
 
-Interactions therefore function as **constraints** on possible joint evolution. They do not select outcomes or inject randomness; they delimit which correlations can form and persist. In this sense, interactions define the relational structure of the theory rather than acting as causal pushes or pulls.
+Interactions function as **constraints** on joint evolution. They do not select outcomes or inject randomness; they delimit which correlations can form and persist. In this sense, interactions define the relational structure of the theory rather than acting as causal pushes or pulls.
 
-At the classical level, interactions give rise to effective forces. These forces summarise the averaged effects of underlying quantum interactions under conditions where decoherence is strong and quantum coherence is negligible.
+At the classical level, interactions give rise to effective **[forces](#force)**. These forces summarise the averaged effects of underlying quantum interactions in regimes where decoherence is strong and quantum interference is negligible.
 
-Interactions are thus fundamental to quantum theory: they make subsystems meaningful, enable entanglement, drive decoherence, and ground measurement without invoking observers or collapse.
+Interactions are thus foundational to quantum theory: they make subsystems meaningful, enable entanglement, drive decoherence, and ground measurement without invoking observers or collapse.
 
 **See also:** [Quantum Field](#quantum-field), [Entanglement](#entanglement), [Decoherence](#decoherence), [Measurement](#measurement), [Force](#force), [Subsystem](#subsystem)
 
@@ -55,24 +55,24 @@ A mathematical object encoding the dynamics of fields. It specifies both how fie
 ---
 
 ## Force
-A force is an effective, classical-level description of how the motion of localised degrees of freedom changes over time. Forces are not fundamental entities in quantum theory; they are emergent summaries of underlying interactions when systems behave approximately classically.
+A force is an effective, classical-level description of how the motion of localised degrees of freedom changes over time. Forces are not fundamental entities in quantum theory; they are emergent summaries of underlying **[interactions](#interaction)** when systems behave approximately classically.
 
 In classical physics, forces appear as vectors causing acceleration according to deterministic laws. In quantum theory, however, the fundamental description is given in terms of fields and interaction terms in dynamical equations, not forces acting on objects. The force concept arises only after localisation, averaging, and decoherence suppress quantum interference.
 
-Formally, forces emerge in regimes where expectation values of quantum operators follow approximately classical trajectories. Under these conditions, the effects of interaction terms in the Hamiltonian can be rewritten as effective potentials or forces acting on classical variables.
+Formally, forces emerge in the **[classical limit](#classical-limit)**, where expectation values of quantum operators follow approximately classical trajectories. Under these conditions, the effects of interaction terms in the Hamiltonian can be rewritten as effective potentials or forces acting on classical variables.
 
-Forces therefore depend on context. They presuppose:
+Forces therefore presuppose specific conditions:
 - a well-defined subsystem,
 - strong decoherence selecting stable classical states,
 - and a scale at which quantum fluctuations are negligible.
 
-Outside these conditions, the force description breaks down and must be replaced by the underlying interaction picture.
+Outside these conditions, force-based descriptions lose validity and must be replaced by the underlying interaction picture.
 
 Different fundamental interactions give rise to different classical forces depending on symmetry, coupling strength, and scale. For example, electromagnetic interactions produce familiar forces between charges, while quantum chromodynamic interactions confine quarks and do not yield simple long-range forces.
 
-Forces are thus bookkeeping devices: powerful, indispensable, and predictive within their domain of validity, but not ontologically basic. Treating forces as fundamental obscures the relational structure that quantum theory reveals.
+Forces are thus powerful and indispensable within their domain of applicability, but they are not ontologically basic. Treating forces as fundamental obscures the relational and field-based structure that quantum theory reveals.
 
-**See also:** [Interaction](#interaction), [Quantum Field](#quantum-field), [Decoherence](#decoherence), [Classical Limit](#classical-limit), [Subsystem](#subsystem)
+**See also:** [Interaction](#interaction), [Quantum Field](#quantum-field), [Decoherence](#decoherence), [Subsystem](#subsystem)
 
 ---
 
@@ -103,19 +103,19 @@ Hilbert space thus provides the formal setting for quantum theory while remainin
 ---
 
 ## Decoherence
-Decoherence is the physical process by which phase relationships within a quantum system become delocalised into many uncontrollable degrees of freedom in the environment. As a result, interference effects between certain alternatives become practically unobservable, even though the overall quantum state continues to evolve unitarily.
+Decoherence is the physical process by which phase relationships within a quantum system become dispersed into correlations with many uncontrollable degrees of freedom in the environment. As a result, interference between certain alternatives becomes practically unobservable, even though the overall quantum state continues to evolve according to standard quantum dynamics.
 
-Decoherence does **not** destroy superposition or entanglement at the global level. Instead, it transfers coherence from a small, controllable subsystem into correlations with a much larger environment. From the perspective of the subsystem alone, the state appears mixed rather than coherent.
+Formally, decoherence is described within **[Hilbert space](#hilbert-space)**. When a subsystem becomes **[entangled](#entanglement)** with environmental degrees of freedom that are not tracked, the combined state spreads coherence across the larger system. Describing only the subsystem then requires ignoring (tracing over) the environment, yielding a reduced state in which interference terms are strongly suppressed.
 
-Formally, decoherence arises when a system becomes entangled with environmental degrees of freedom that are not tracked. Tracing over those degrees of freedom suppresses off-diagonal terms in the reduced density matrix of the subsystem, selecting a preferred basis in which classical behaviour is stable.
+Decoherence does **not** eliminate superposition or entanglement at the global level. Instead, it redistributes coherence from a small, controllable subsystem into correlations with a much larger environment. From the perspective of the subsystem alone, the state appears mixed rather than coherent.
 
-The basis singled out by decoherence depends on the interaction structure between system and environment. These interactions determine which states are robust against environmental monitoring and which rapidly lose coherence. This explains why certain macroscopic variables (such as position) behave classically, while others do not.
+Which states are stabilised by decoherence depends on the interaction structure between subsystem and environment. Certain states remain robust under continual environmental interaction, while superpositions of those states rapidly lose observable coherence. This explains why specific classical variables—such as position—are preferentially realised in everyday experience.
 
-Decoherence explains the emergence of classical records and effective irreversibility without introducing a physical collapse of the quantum state. However, it does not by itself select a single outcome; it explains why alternatives fail to interfere, not why one is realised.
+Decoherence explains the emergence of classical behaviour, effective irreversibility, and stable classical records without introducing a physical collapse of the quantum state. However, it does not by itself select a single outcome from among alternatives; it explains why alternatives fail to interfere, not why one is realised.
 
-Decoherence therefore marks the boundary between quantum possibility and classical appearance. It is the mechanism by which relational quantum structure gives rise to stable, classical descriptions.
+Decoherence therefore marks the boundary between quantum relational structure and classical appearance. It is the mechanism by which classical descriptions become valid approximations within an underlying quantum theory.
 
-**See also:** [Entanglement](#entanglement), [Environment](#environment), [Subsystem](#subsystem), [Measurement](#measurement), [Classical Record](#classical-record)
+**See also:** [Environment](#environment), [Subsystem](#subsystem), [Measurement](#measurement), [Classical Record](#classical-record)
 
 ---
 
@@ -139,51 +139,53 @@ The environment thus provides the bridge between quantum relational dynamics and
 ---
 
 ## Entanglement
-Entanglement is a structural feature of quantum states in which the state of a composite system cannot be decomposed into independent states of its subsystems. Formally, an entangled state is one that cannot be written as a tensor product of subsystem states in Hilbert space.
+Entanglement is a structural feature of quantum states in which the state of a composite system cannot be decomposed into independent states of its subsystems. It reflects irreducible relational structure, not hidden connections or signals between objects.
 
-Entanglement is **not** synonymous with strong correlation. Classical systems can be strongly correlated while remaining separable. Entanglement instead reflects non-factorisability: even when all properties of each subsystem are fully specified, the joint state contains irreducible relational information.
+Formally, entanglement is defined within **[Hilbert space](#hilbert-space)**. For a composite system, the total Hilbert space is constructed as a tensor product of subsystem spaces. A state is entangled if it cannot be written as a simple product of states belonging to each subsystem. This non-factorisability is the precise mathematical content of entanglement.
 
-Whether a system is entangled depends on how it is partitioned into subsystems. There is no observer-independent, intrinsic notion of “what is entangled with what” without specifying a decomposition. Entanglement is therefore a relational property, not an attribute of isolated objects.
+Entanglement is **not** equivalent to strong correlation. Classical systems can exhibit correlations of arbitrary strength while remaining fully separable. Entanglement instead indicates that no complete description of the whole system can be obtained by specifying the states of the parts alone.
 
-In composite systems, the Hilbert space is constructed as a tensor product of subsystem spaces. This structure permits states in which local descriptions are incomplete, even in principle. Measurement outcomes on one subsystem can update expectations about another because both are aspects of a single global state.
+Whether a system is entangled depends on how it is partitioned into subsystems. Different factorizations of the Hilbert space can lead to different judgements about entanglement. There is therefore no observer-independent, intrinsic notion of “what is entangled with what” without specifying a subsystem decomposition.
 
-Decoherence does not destroy entanglement globally. Instead, it typically *redistributes* entanglement from small, controllable subsystems into large, uncontrollable environments, rendering it locally inaccessible while increasing global correlations.
+When entangled systems are measured, outcomes on one subsystem can update expectations about another because both are aspects of a single global state. This does not imply faster-than-light influence; it reflects shared structure established by prior interaction.
 
-Entanglement is thus central to quantum theory not because it enables nonlocal signalling (it does not), but because it reveals that the fundamental description of nature is irreducibly relational.
+Decoherence does not eliminate entanglement at the global level. Instead, it typically redistributes entanglement from small, controllable subsystems into large, uncontrollable environments, making it locally inaccessible while increasing global correlations.
 
-**See also:** [Hilbert Space](#hilbert-space), [Subsystem](#subsystem), [Decoherence](#decoherence), [Measurement](#measurement), [Superposition](#superposition)
+Entanglement thus reveals a fundamental feature of quantum theory: the whole is not built from independently defined parts. Relations come first, and parts are defined only within those relations.
+
+**See also:** [Subsystem](#subsystem), [Decoherence](#decoherence), [Measurement](#measurement), [Superposition](#superposition)
 
 ---
 
 ## Subsystem
-A subsystem is a chosen partition of a larger quantum system, defined by selecting a subset of degrees of freedom and treating the remainder as external. Subsystems are not fundamental entities; they are contextual decompositions used to make description and prediction tractable.
+A subsystem is a chosen partition of a larger quantum system, defined by selecting a subset of degrees of freedom and treating the remainder as external. Subsystems are not fundamental objects; they are contextual decompositions used to make description and prediction tractable.
 
-Formally, defining subsystems corresponds to factorising a Hilbert space into a tensor product of smaller spaces. This factorisation is not unique, and different choices of subsystem decomposition can lead to different judgements about entanglement and separability.
+Formally, a subsystem is defined by a factorisation of **[Hilbert space](#hilbert-space)**. The total Hilbert space of a composite system may be written as a tensor product of smaller spaces, each associated with a subsystem. This factorisation is not unique, and different choices can lead to different descriptions of the same physical situation.
 
-Subsystem boundaries are therefore not given by nature alone. They are constrained by interaction structure, experimental accessibility, and decoherence, but they are not absolute. What counts as a “system” in one context may be part of the “environment” in another.
+Because subsystem definitions depend on how Hilbert space is factorised, they are not fixed by nature alone. They are constrained by interaction structure, experimental accessibility, and decoherence, but they are not absolute. What counts as a “system” in one context may be part of the “environment” in another.
 
-Entanglement is always defined *relative to a chosen subsystem decomposition*. A state may be entangled with respect to one partition and separable with respect to another. There is no observer-independent fact of the matter about entanglement without specifying the subsystem structure.
+Entanglement is always defined relative to a chosen subsystem decomposition. A quantum state may be entangled with respect to one partition and separable with respect to another. There is therefore no observer-independent notion of subsystems prior to specifying how the system is divided.
 
-Decoherence stabilises certain subsystem decompositions by suppressing interference between alternative states, effectively selecting preferred partitions that support robust classical records. This explains why familiar macroscopic subsystems appear well-defined, despite the underlying arbitrariness of decomposition.
+Decoherence stabilises certain subsystem decompositions by suppressing interference between alternative states. These preferred decompositions support robust classical records and explain why familiar macroscopic subsystems appear well-defined despite the underlying arbitrariness of partitioning.
 
 Subsystems thus function as pragmatic units of description rather than ontological primitives. They enable locality, measurement, and classical reasoning to emerge from an underlying relational quantum structure.
 
-**See also:** [Hilbert Space](#hilbert-space), [Entanglement](#entanglement), [Decoherence](#decoherence), [Measurement](#measurement), [Environment](#environment)
+**See also:** [Entanglement](#entanglement), [Decoherence](#decoherence), [Measurement](#measurement), [Environment](#environment)
 
 ---
 
 ## Measurement
-Measurement is a physical interaction in which a quantum system becomes entangled with a measuring apparatus and subsequently decoheres, producing stable, classical records correlated with the system’s prior state. It is not a primitive process, but a compound one involving interaction, entanglement, and decoherence.
+Measurement is a physical process in which a quantum system becomes entangled with a measuring apparatus and its environment, followed by decoherence that stabilises correlations into classical records. It is not a primitive or special operation, but a composite process arising from ordinary quantum dynamics.
 
-A measurement does not require consciousness, intention, or an observer in the everyday sense. It occurs whenever information about a system becomes redundantly encoded in environmental degrees of freedom such that alternative outcomes no longer interfere.
+Formally, measurement is described within **[Hilbert space](#hilbert-space)** as the evolution of a joint system–apparatus state into a superposition of correlated outcome branches. These branches correspond to distinct subspaces associated with different possible results, determined by the interaction structure between system and apparatus.
 
-Formally, measurement corresponds to the evolution of a composite system–apparatus state into a superposition of correlated branches, each associated with a distinct outcome. Decoherence rapidly suppresses interference between these branches by entangling them with the environment, rendering the outcomes effectively classical.
+Measurement does not require consciousness, intention, or an observer in the everyday sense. It occurs whenever information about a system becomes redundantly encoded in environmental degrees of freedom such that interference between alternatives is effectively suppressed.
 
-Measurement outcomes correspond to projections onto particular subspaces of Hilbert space, determined by the interaction structure between system and apparatus. Which observable is measured is therefore fixed by physical coupling, not by abstract choice alone.
+Which observable is measured is fixed by physical coupling, not by abstract choice alone. The interaction selects which degrees of freedom of the system become correlated with stable states of the apparatus and environment. Decoherence then renders these correlations robust and persistent.
 
-Decoherence explains why measurement outcomes are stable and communicable, but it does not, by itself, explain why a single outcome is experienced rather than a superposition of alternatives. Different interpretations of quantum mechanics address this residual question in different ways, without altering the underlying formalism.
+Decoherence explains why measurement outcomes are stable, communicable, and effectively irreversible. It does not, by itself, explain why a single outcome is experienced rather than a superposition of alternatives. Different interpretations of quantum mechanics address this residual question without altering the underlying formalism.
 
-Measurement thus marks the transition from quantum relational structure to classical description. It is the process by which abstract quantum correlations become concrete, persistent records within the world.
+Measurement thus marks the transition from quantum relational structure to classical description. It is the process by which abstract quantum correlations become concrete, shared features of the physical world.
 
 **See also:** [Interaction](#interaction), [Entanglement](#entanglement), [Decoherence](#decoherence), [Classical Record](#classical-record), [Subsystem](#subsystem)
 
