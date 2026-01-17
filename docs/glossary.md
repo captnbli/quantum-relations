@@ -86,9 +86,19 @@ All degrees of freedom not explicitly tracked as part of the system of interest.
 ---
 
 ## Entanglement
-The inseparability of quantum states across subsystems, such that the state of the whole cannot be reduced to independent states of its parts. Entanglement is a relational property, not an intrinsic one.
+Entanglement is a structural feature of quantum states in which the state of a composite system cannot be decomposed into independent states of its subsystems. Formally, an entangled state is one that cannot be written as a tensor product of subsystem states in Hilbert space.
 
-**See also:** [Subsystem](#subsystem), [Decoherence](#decoherence), [Superposition](#superposition)
+Entanglement is **not** synonymous with strong correlation. Classical systems can be strongly correlated while remaining separable. Entanglement instead reflects non-factorisability: even when all properties of each subsystem are fully specified, the joint state contains irreducible relational information.
+
+Whether a system is entangled depends on how it is partitioned into subsystems. There is no observer-independent, intrinsic notion of “what is entangled with what” without specifying a decomposition. Entanglement is therefore a relational property, not an attribute of isolated objects.
+
+In composite systems, the Hilbert space is constructed as a tensor product of subsystem spaces. This structure permits states in which local descriptions are incomplete, even in principle. Measurement outcomes on one subsystem can update expectations about another because both are aspects of a single global state.
+
+Decoherence does not destroy entanglement globally. Instead, it typically *redistributes* entanglement from small, controllable subsystems into large, uncontrollable environments, rendering it locally inaccessible while increasing global correlations.
+
+Entanglement is thus central to quantum theory not because it enables nonlocal signalling (it does not), but because it reveals that the fundamental description of nature is irreducibly relational.
+
+**See also:** [Hilbert Space](#hilbert-space), [Subsystem](#subsystem), [Decoherence](#decoherence), [Measurement](#measurement), [Superposition](#superposition)
 
 ---
 
