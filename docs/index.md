@@ -162,11 +162,7 @@ As a result, quarks are permanently confined into composite structures. Attempti
 
 The stability of these bound states is not due to rigid structure but to the shape of the energy landscape defined by the strong interaction. There is no lower-energy configuration available that preserves the relevant constraints. In this sense, protons and neutrons are stable patterns of field activity rather than assembled objects.
 
-Most of the mass of ordinary matter does not come from the intrinsic masses of quarks, which are small, but from the energy stored in the strong interaction itself. The inertia of everyday objects is therefore largely an emergent consequence of confined field dynamics.
-
-More precisely, this energy resides in the configuration of the **gluon field** that binds quarks together. The gluon field is the quantum field associated with the strong interaction. Its configurations carry energy, and in bound states such as protons and neutrons, that energy dominates the total mass through mass–energy equivalence.
-
-In this sense, the mass of ordinary matter is not primarily a property of individual particles, but an emergent consequence of energy stored in stable field configurations.
+Most of the **[mass](glossary.md#mass)** of protons and neutrons arises from the energy stored in the configuration of the gluon field binding quarks together. The inertia of everyday objects is therefore largely an emergent consequence of confined field dynamics.
 
 More precisely, this energy resides in the configuration of the **gluon field** that binds quarks together. The gluon field is the quantum field associated with the strong interaction. Its configurations carry energy, and in bound states such as protons and neutrons, that energy dominates the total mass through mass–energy equivalence.
 
@@ -180,7 +176,7 @@ One quantum field plays a distinctive role in shaping the behaviour of matter: t
 
 Unlike fields associated with forces, the Higgs field does not mediate interactions between particles. Instead, it provides a uniform background that affects how certain excitations respond to motion. In this sense, it sets part of the scale for inertia — the resistance of a system to acceleration.
 
-Excitations that interact strongly with the Higgs field behave as if they have greater mass. Those that do not remain effectively massless. This difference is not due to particles carrying more or less “stuff”, but to how they couple to the Higgs field as they evolve.
+Excitations that interact strongly with the Higgs field behave as if they have greater **[mass](glossary.md#mass)**. Those that do not remain effectively massless. This difference is not due to particles carrying more or less “stuff”, but to how they couple to the Higgs field as they evolve.
 
 The Higgs field is present everywhere, even in empty space. Its influence is subtle but pervasive, shaping the spectrum of stable excitations that can exist. Without it, electrons would behave very differently, atoms would not form as they do, and the familiar structure of matter would be impossible.
 
