@@ -74,6 +74,22 @@ What we call **[forces](glossary.md#force)** emerge from these interactions when
 
 ---
 
+## Symmetry and Conservation: Why Anything Is Stable
+
+Interactions alone do not explain why the world has persistent structure. What gives quantum fields their reliability, and what makes stable patterns possible at all, are symmetries and the conservation laws that follow from them.
+
+A symmetry is a feature of a system that remains unchanged under some transformation — such as shifting in time, moving in space, or rotating in orientation. When a system’s fundamental description has such a symmetry, certain quantities must be conserved. This connection between symmetry and conservation is not an added rule; it is built into the structure of physical law.
+
+For example, symmetry under time translation implies conservation of energy. Symmetry under spatial translation implies conservation of momentum. Symmetry under rotation implies conservation of angular momentum. These conservation laws are not optional. They constrain which processes can occur and which cannot.
+
+In quantum theory, these constraints apply to fields and their excitations. They restrict how states can evolve, which interactions are allowed, and which configurations can persist. Many excitations decay quickly because no conservation law protects them. Others, such as electrons or protons, are stable because there is no allowed process that can eliminate them while respecting the underlying symmetries.
+
+Asymmetries are just as important. Small violations of symmetry — such as differences between particles and antiparticles — make complex structures possible. Without asymmetry, the universe would be simple and short-lived. With it, stable matter, chemistry, and long-lived patterns can emerge.
+
+Symmetry and conservation are therefore not abstract mathematical decorations. They are the reason the universe has memory, structure, and continuity. They explain why some patterns dissolve immediately, while others endure long enough for atoms, stars, and living systems to exist.
+
+---
+
 ## Superposition and Possibility
 
 One of the most unfamiliar features of quantum theory is **[superposition](glossary.md#superposition)**.
